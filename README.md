@@ -10,7 +10,7 @@ Cupoy 1st Julia Language Machine Learning Marathon
 
 ## 2. Julia 基礎語法   
 > Julia 語法介紹與結構化程式設計風格   
-4. <a href='https://github.com/PrestonYU/JuliaMarathon/blob/master/homework/julia_004_hw.ipynb'>Julia 數值型別系統</a>: `介紹不同的數值型別，包含：整數 (Integer)、布林值 (Bool)、浮點數 (Floating Point)、有理數 (Rational)、複數 (Complex)、無理數 (Irrational)，以及如何隨機產生數值的常用函式。`   
+4. <a href='https://github.com/PrestonYU/JuliaMarathon/blob/master/homework/Day_004_hw.ipynb'>Julia 數值型別系統</a>: `介紹不同的數值型別，包含：整數 (Integer)、布林值 (Bool)、浮點數 (Floating Point)、有理數 (Rational)、複數 (Complex)、無理數 (Irrational)，以及如何隨機產生數值的常用函式。`   
 5. <a href='https://github.com/PrestonYU/JuliaMarathon/blob/master/homework/julia_005_hw.ipynb'>Julia 的變數 (Variables)、內建數學常數、與運算</a>: `了解 Julia 的變數、內建數學常數、運算子，以及如何進行運算`    
 6. <a href='https://github.com/PrestonYU/JuliaMarathon/blob/master/homework/julia_006_hw.ipynb'>Julia 的函數 (Functions)</a>: `介紹在 Julia 中如何自訂函數讓程式模組化，並且增加可讀及重覆使用性`   
 7. <a href='https://github.com/PrestonYU/JuliaMarathon/blob/master/homework/julia_007_hw.ipynb'>Julia 的條件與迭代</a>: `介紹 Julia 的條件判斷式與迴圈，能有效進行程式內的邏輯挖制`    
